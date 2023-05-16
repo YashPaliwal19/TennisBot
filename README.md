@@ -1,2 +1,4 @@
 # TennisBot
-![Alt text](Images/Robot_image.jpeg)
+<p align="center">
+  <img src="Images/Robot_image.jpeg" alt="Alt text" width="300" height="400"/>
+</p>
