@@ -1,0 +1,5 @@
+train: train/YOLODataset/images/train/
+val: train/YOLODataset/images/val/
+test: train/YOLODataset/images/test/
+nc: 1
+names: ['ball']
