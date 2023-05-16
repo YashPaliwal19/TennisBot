@@ -1,0 +1,5 @@
+train: /home/yash/AdvRobotLearning/Final_Project/ball_dataset/AIRLlabelimages1-200/AIRLlabelimages/train
+val: /home/yash/AdvRobotLearning/Final_Project/ball_dataset/AIRLlabelimages1-200/AIRLlabelimages/test
+
+nc: 1
+names: ['ball']
